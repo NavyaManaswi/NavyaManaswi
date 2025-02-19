@@ -5,7 +5,7 @@
 <br>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=navyamanaswi&label=Profile%20views&color=0e75b6&style=flat" alt="navyamanaswi" /> </p>-->
 
-- 🔭 I’m currently working on [Project MITRA](https://github.com/studentmitragtpl1)
+- 🔭 I’m currently working on backend
 
 - 🌱 I’m currently learning **ML, frontend,backend**
 
