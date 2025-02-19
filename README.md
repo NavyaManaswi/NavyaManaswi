@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Project MITRA](https://github.com/studentmitragtpl1)
 
-- 🌱 I’m currently learning **ML, frontend**
+- 🌱 I’m currently learning **ML, frontend,backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NavyaManaswi](https://github.com/NavyaManaswi)
 
-- 💬 Ask me about **front-end and designing**
+- 💬 Ask me about **front-end and backend**
 
 - 📫 How to reach me **navya101002@gmail.com**
 
