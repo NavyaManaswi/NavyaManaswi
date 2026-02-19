@@ -15,9 +15,11 @@
 
 - 📫 How to reach me **navya101002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yIA4TZVIidLYt3tzMmIzN68yH2KytYgz/view?usp=drivesdk](https://drive.google.com/file/d/1yIA4TZVIidLYt3tzMmIzN68yH2KytYgz/view?usp=drivesdk)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1yIA4TZVIidLYt3tzMmIzN68yH2KytYgz/view?usp=drivesdk](https://drive.google.com/file/d/1yIA4TZVIidLYt3tzMmIzN68yH2KytYgz/view?usp=drivesdk)](https://drive.google.com/file/d/1xG4Q3syE-E62Hw0AnmO_YXApby2lLnOq/view?usp=sharing)
 
-- ⚡ Fun fact **I am super tall!!!**
+- ⚡ Fun fact **I am super tall and super talkative (only if you get to know me 😉)!!!**
+
+- Also ☝🏻 I can speak multiple languagues- with **Telugu** being my mother tounge, **Hindi, english, kannada** and a little bit of **korean** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
