@@ -5,13 +5,13 @@
 <br>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=navyamanaswi&label=Profile%20views&color=0e75b6&style=flat" alt="navyamanaswi" /> </p>-->
 
-- 🔭 I’m currently working on backend
+- 🔭 I’m currently working as backend developer in Algofusion Technologies pvt. ltd.
 
 - 🌱 I’m currently learning **ML, frontend,backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NavyaManaswi](https://github.com/NavyaManaswi)
 
-- 💬 Ask me about **front-end and backend**
+- 💬 Ask me about **backend**
 
 - 📫 How to reach me **navya101002@gmail.com**
 
